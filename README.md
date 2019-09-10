@@ -10,3 +10,9 @@ These are the variables you might need to change. X/Y offset are the offset from
 - battleInfo = [...]
 - xpInfo = [...]
 - okInfo = [...]
+
+You might also have to update the images used for the comparisons.
+- ![training icon](./training.png)
+- ![ok button](./ok.png)
+- ![speed up icon](./speedup.png)
+- ![xp icon](./xp.png)
